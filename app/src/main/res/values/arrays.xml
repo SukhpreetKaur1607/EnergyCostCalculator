@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="slabRange">
+        <item>100</item>
+        <item>500</item>
+        <item>2147483647</item>
+    </integer-array>
+
+    <integer-array name="slabRate">
+        <item>5</item>
+        <item>8</item>
+        <item>10</item>
+    </integer-array>
+</resources>
